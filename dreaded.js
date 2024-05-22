@@ -543,7 +543,8 @@ let cap = `╭════〘 𝗗𝗥𝗘𝗔𝗗𝗘𝗗 〙═⊷❍
      
     ╰──────────❍
     
-       𝐷𝑟𝑒𝑎𝑑𝑒𝑑 𝐵𝑜𝑡 ★JasonMomanyi✗🀍
+       𝐷𝑟𝑒𝑎𝑑𝑒𝑑 𝐵𝑜𝑡 ★JasonMomanyi✗🀍\n
+       https://github.com/JasonMomanyi
        
 
 ╰═══════════════⊷❍`;
@@ -1846,7 +1847,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d6dab955fbaa42fce2280.jpg' }, caption: `Hello ${m.pushName}, Dreaded is active\n\nActive for:  ${runtime(process.uptime())}\n\nType ${prefix}help.\n\nYou can also interact with our online chatbot built with html and JavaScript with API integration.\n\nLink is given below:\n\nhttps://quantumlab.ru.eu.org/  incase of any issues contact +254799884226`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d30a09a6559651402410d.jpg' }, caption: `Hello ${m.pushName}, Dreaded is active\n\nActive for:  ${runtime(process.uptime())}\n\nType ${prefix}help.\n\nYou can also interact with our online chatbot built with html and JavaScript with API integration.\n\nLink is given below:\n\nhttps://quantumlab.ru.eu.org/  incase of any issues contact +254799884226`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
